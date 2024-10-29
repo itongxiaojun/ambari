@@ -17,12 +17,12 @@
  */
 package org.apache.ambari.annotations;
 
-import org.apache.ambari.server.configuration.Configuration;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
+import org.apache.ambari.server.configuration.Configuration;
 /**
  * The {@link ConfigurationMarkdown} is used to represent more complex
  * Markdown for {@link Configuration.ConfigurationProperty} fields. It wraps the traditional

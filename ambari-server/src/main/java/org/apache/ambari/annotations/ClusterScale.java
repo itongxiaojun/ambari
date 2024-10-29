@@ -17,12 +17,12 @@
  */
 package org.apache.ambari.annotations;
 
-import org.apache.ambari.server.configuration.Configuration;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
+import org.apache.ambari.server.configuration.Configuration;
 /**
  * The {@link ClusterScale} class is a representation of the size of the
  * cluster combined with a value. It's used to represent different
