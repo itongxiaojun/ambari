@@ -624,6 +624,18 @@
             </organization>
         </developer>
         <developer>
+            <id>jialiang</id>
+            <name>Jialiang Cai</name>
+            <email>jialiang@apache.org</email>
+            <timezone>-8</timezone>
+            <roles>
+                <role>Committer</role>
+            </roles>
+            <organization>
+                SZL
+            </organization>
+        </developer>
+        <developer>
             <id>jitendra</id>
             <name>Jitendra Pandey</name>
             <email>jitendra@apache.org</email>
